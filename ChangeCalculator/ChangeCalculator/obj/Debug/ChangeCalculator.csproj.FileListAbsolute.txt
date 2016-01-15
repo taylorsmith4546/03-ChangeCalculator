@@ -1,0 +1,6 @@
+C:\Dev\GitHub\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe.config
+C:\Dev\GitHub\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.csprojResolveAssemblyReference.cache
+C:\Dev\GitHub\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe
+C:\Dev\GitHub\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.pdb
+C:\Dev\GitHub\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.exe
+C:\Dev\GitHub\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.pdb
